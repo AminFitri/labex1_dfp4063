@@ -1,10 +1,20 @@
-<!DOCTYPE html>
+<<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+<head> 
+    <title>Home Page</title>
+    <link rel="stylesheet" href="home.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+    <center>
+    <body>
+        <img src="books3.jpg" width="30%" height="200px"/>
+        <div class="topnav">
+        <a class="active" href="home.php">Home</a>
+        <a href="list.php">List Book</a>
+        <a href="form.php">Borrow Form</a>
+        </div>
 </head>
 <body>
 <?php
@@ -23,6 +33,6 @@
         As Jules says near the end, “I’m always surprised by how the light of memory makes particular moments 
         shine brightly.” </h3>";
     ?> 
-
+        <a href="list.php">Back</a>
 </body>
 </html>

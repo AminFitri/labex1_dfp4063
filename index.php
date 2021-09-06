@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE-edge">
     <meta name="viewpoint" content="width=device-widht, initial-scales=1.0">
-    <title></title>
     <link href="style.css" rel="stylesheet">
 </head>
 

@@ -32,13 +32,6 @@
 
             </tr>
 
-            <tr>
-                <th>
-                    <h2> RM 69.00 </h2>
-                </th>
-            </tr>
-
-
     </center>
 
     </body>
